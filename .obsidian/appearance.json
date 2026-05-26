@@ -1,0 +1,13 @@
+{
+  "interfaceFontFamily": "Droid Sans Mono,monospace,Inconsolata",
+  "monospaceFontFamily": "Droid Sans Mono,monospace,Inconsolata,Roboto Mono",
+  "textFontFamily": "Droid Sans Mono,Roboto Mono,monospace,Inconsolata",
+  "cssTheme": "",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false,
+  "floatingNavigation": true,
+  "enabledCssSnippets": [
+    "vimrc"
+  ],
+  "accentColor": "#6388c7"
+}

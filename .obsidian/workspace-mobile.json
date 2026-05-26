@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "65eb0bdc35341f39",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c28bb97719a286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d997fe74a90b7b21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff82c08b8e92bf47",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac56832323157ecf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "baf8612aef41a1bb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "19068c90e926b058",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "fa3d3e9e3e5647cd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9a22e5450532685e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b646621cd01b1d91",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "TODO.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e16822ded2126294",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "dhammapada/397.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a439bc52ff798693",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "dhammapada/397.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d997fe74a90b7b21",
+  "lastOpenFiles": [
+    "dhammapada/103.md",
+    "dhammapada/389.md",
+    "dhammapada/407.md",
+    "dhammapada/027-028.md",
+    "dhammapada/057.md",
+    "dhammapada/169.md",
+    "dhammapada/357.md",
+    "dhammapada/205.md",
+    "dhammapada/209.md",
+    "dhammapada/341.md",
+    "dhammapada/147.md",
+    "dhammapada/164.md",
+    "dhammapada/419.md",
+    "dhammapada/418.md",
+    "dhammapada/404.md",
+    "dhammapada/398.md",
+    "dhammapada/397.md",
+    "dhammapada/387.md",
+    "dhammapada/384.md",
+    "dhammapada/381.md",
+    "dhammapada/380.md",
+    "dhammapada/377.md",
+    "dhammapada/375-376.md",
+    "dhammapada/355.md",
+    "dhammapada/338.md",
+    "dhammapada/334.md",
+    "test.wav"
+  ]
+}
