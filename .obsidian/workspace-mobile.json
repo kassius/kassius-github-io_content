@@ -86,7 +86,11 @@
         }
       },
       {
+<<<<<<< HEAD
         "id": "4d1f1cb7b5890b49",
+=======
+        "id": "973936ad0b9100b6",
+>>>>>>> a41058e (Commit from quartz-sync (000))
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -155,7 +159,11 @@
         }
       },
       {
+<<<<<<< HEAD
         "id": "60aa783ad4485097",
+=======
+        "id": "2611ae980b9a648d",
+>>>>>>> a41058e (Commit from quartz-sync (000))
         "type": "leaf",
         "state": {
           "type": "footnotes",
