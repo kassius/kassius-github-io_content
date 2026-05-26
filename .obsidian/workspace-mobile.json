@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "65eb0bdc35341f39",
+    "id": "ebed70cf34dd49d7",
     "type": "split",
     "children": [
       {
-        "id": "c3c28bb97719a286",
+        "id": "f52f572186eea28f",
         "type": "tabs",
         "children": [
           {
-            "id": "d997fe74a90b7b21",
+            "id": "f3dfc0e1fb8282c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookbook/Quartz on Termux.md",
+                "file": "testing v5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quartz on Termux"
+              "title": "testing v5"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ff82c08b8e92bf47",
+    "id": "c2a663ca60cba10d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ac56832323157ecf",
+        "id": "3e3b9bf8ce85dd39",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "baf8612aef41a1bb",
+        "id": "89e310c3b90a67bc",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "19068c90e926b058",
+        "id": "3ad7e4e3fb85b000",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,21 +76,7 @@
         }
       },
       {
-        "id": "fa3d3e9e3e5647cd",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
-        }
-      },
-      {
-<<<<<<< HEAD
-        "id": "4d1f1cb7b5890b49",
-=======
-        "id": "973936ad0b9100b6",
->>>>>>> a41058e (Commit from quartz-sync (000))
+        "id": "4ed3a7c2d618e781",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -102,21 +88,31 @@
           "icon": "lucide-archive",
           "title": "All properties"
         }
+      },
+      {
+        "id": "35e6b173c19c8c1b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "9a22e5450532685e",
+    "id": "554c932b734b63a2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b646621cd01b1d91",
+        "id": "a8e3259b9241411f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TODO.md",
+            "file": "testing v5.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,12 +126,12 @@
         }
       },
       {
-        "id": "e16822ded2126294",
+        "id": "8443f2d8c1eb0bdc",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "dhammapada/397.md",
+            "file": "testing v5.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,34 +140,18 @@
         }
       },
       {
-        "id": "a439bc52ff798693",
+        "id": "17ccf8a1c43b6aae",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "dhammapada/397.md",
+            "file": "testing v5.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
-        }
-      },
-      {
-<<<<<<< HEAD
-        "id": "60aa783ad4485097",
-=======
-        "id": "2611ae980b9a648d",
->>>>>>> a41058e (Commit from quartz-sync (000))
-        "type": "leaf",
-        "state": {
-          "type": "footnotes",
-          "state": {
-            "file": "cookbook/Quartz on Termux.md"
-          },
-          "icon": "lucide-file-signature",
-          "title": "Footnotes"
         }
       }
     ],
@@ -189,34 +169,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "d997fe74a90b7b21",
+  "active": "f3dfc0e1fb8282c6",
   "lastOpenFiles": [
-    "dhammapada/103.md",
-    "dhammapada/389.md",
-    "dhammapada/407.md",
-    "dhammapada/027-028.md",
-    "dhammapada/057.md",
-    "dhammapada/169.md",
-    "dhammapada/357.md",
-    "dhammapada/205.md",
-    "dhammapada/209.md",
-    "dhammapada/341.md",
-    "dhammapada/147.md",
-    "dhammapada/164.md",
-    "dhammapada/419.md",
-    "dhammapada/418.md",
-    "dhammapada/404.md",
-    "dhammapada/398.md",
-    "dhammapada/397.md",
-    "dhammapada/387.md",
-    "dhammapada/384.md",
-    "dhammapada/381.md",
-    "dhammapada/380.md",
-    "dhammapada/377.md",
-    "dhammapada/375-376.md",
-    "dhammapada/355.md",
-    "dhammapada/338.md",
-    "dhammapada/334.md",
-    "test.wav"
+    "testing v5.md"
   ]
 }
