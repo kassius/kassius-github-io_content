@@ -49,5 +49,6 @@
   "showIndentGuide": true,
   "spellcheck": false,
   "smartIndentList": false,
-  "useTab": false
+  "useTab": false,
+  "vimMode": true
 }

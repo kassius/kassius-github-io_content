@@ -28,5 +28,6 @@
   "publish": true,
   "sync": false,
   "footnotes": true,
-  "bases": true
+  "bases": true,
+  "webviewer": false
 }
