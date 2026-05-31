@@ -3,7 +3,7 @@
   "monospaceFontFamily": "Droid Sans Mono,monospace,Inconsolata,Roboto Mono",
   "textFontFamily": "Droid Sans Mono,Roboto Mono,monospace,Inconsolata",
   "cssTheme": "",
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "baseFontSizeAction": false,
   "floatingNavigation": true,
   "enabledCssSnippets": [

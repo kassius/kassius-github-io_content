@@ -51,4 +51,5 @@
   "smartIndentList": false,
   "useTab": false,
   "vimMode": true
+  "tabSize": 5
 }
