@@ -11,10 +11,14 @@
             "id": "24099c1730f10893",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "userscripts/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "24099c1730f10893",
   "lastOpenFiles": [
+    "cookbook/PyNaCl on Termux.md",
     "tstng nu.md"
   ]
 }
